@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hatch</string>
+    <string name="auth_title">Cloudflare Access</string>
+    <string name="auth_subtitle">Sign in with the email address registered for this tunnel.</string>
+    <string name="auth_close">Close</string>
+    <string name="auth_capturing">Verifying your session…</string>
+    <string name="prototype_badge">PROTOTYPE</string>
+</resources>
