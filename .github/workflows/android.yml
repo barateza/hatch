@@ -38,7 +38,7 @@ jobs:
           fi
           echo "Using sdkmanager: $SDKMANAGER"
           yes | "$SDKMANAGER" --licenses >/dev/null || true
-          "$SDKMANAGER" --install "platform-tools" "platforms;android-37" "build-tools;37.0.0"
+          "$SDKMANAGER" --install "platform-tools" "platforms;android-37.0" "build-tools;37.0.0"
 
       - name: Set up Gradle
         uses: gradle/actions/setup-gradle@v6
