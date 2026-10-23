@@ -19,6 +19,8 @@ keystore.properties
 secrets.properties
 .env
 .dsh/
+.impeccable/
+.reasonix/
 
 **/build/
 **/captures/
